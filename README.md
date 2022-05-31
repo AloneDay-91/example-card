@@ -1,5 +1,7 @@
 # Example Card Website
 
+<p align="center"><b> :warning: These are only beta versions: They are still updated!</b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-HTML & CSS-1f425f.svg"/>
   <a href="https://github.com/AloneDay-91/example-card/releases"><img src="https://img.shields.io/github/downloads/AloneDay-91/example-card/total.svg"/></a>
